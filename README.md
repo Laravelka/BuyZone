@@ -28,7 +28,7 @@
 
 ## Requirements ##
 - Sourcemod and Metamod
-
+- Warmix plguin
 
 ## Installation ##
 1. Grab the latest release from the release page and unzip it in your sourcemod folder.
